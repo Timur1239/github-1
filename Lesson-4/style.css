@@ -1,0 +1,50 @@
+*{
+padding: 0;
+margin: 0;
+}
+.text{
+    width: 40px;
+    background-color: greenyellow;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-bottom: 35px;
+    padding-right: 60px;
+margin-top: 20px;
+margin-left: 12px;
+margin-bottom: 100;
+margin-right: 50px;
+
+}
+.parent{
+    width: 800px;
+    height: 500px;
+    background-color: gold;
+    padding-top: 123px;
+    padding-left: 123px;
+    padding-bottom: 123px;
+    padding-right: 123px;
+    margin-top: 123px;
+margin-left: 12px;
+}
+
+.child{
+    width: 700px;
+height: 400px;
+background-color: goldenrod;
+
+}
+
+.button{
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 25px;
+    
+}
+
+ 
+ 
